@@ -1,0 +1,17 @@
+{
+    "app": {
+        "port": "2000",
+        "jwt": "Bismillah",
+        "devStatus": false
+    },
+    "unidaApi": {
+        "url": "http://api.unida.gontor.ac.id:1926",
+        "clientToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjE5MjYyMDE0IiwiY2xpZW50U2VjcmV0IjoiYmlzbWlsbGFoIiwiaWF0IjoxNTc5MTY2NDc3fQ.T5xuFl750KDGyblYBGDPpZ-fl4UDcOq4Rc6TWxux1VE",
+        "jwtKey": "Jrk6rEHUa7"
+    },
+    "WABA": {
+        "url": "https://graph.facebook.com/v21.0/480387091832057",
+        "token": "EAAgogNmGKZAYBOzwoPKH0BAI0oL7BJZCItVT3LYZAWbRiZBIYfKfsCuKZBe3GvTewugkDahy0POhXQQy54J2uslYYzpZCpclZADOb6Yx4iT3WuMyoE9YAimPz2ZAZBAPdXLAlZB9WZCB4Pfrtroa6wL1kQ5zH0VwUhUxRhkoqbwDXghbklNQR2AfIkXqCMoQEiaTwO7QgZDZD",
+        "devNumber": "6285219370971"
+    }
+}
